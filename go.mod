@@ -1,3 +1,3 @@
-module github.com/gammazero/deque
+module go.olapie.com/deque
 
 go 1.18
